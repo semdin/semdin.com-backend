@@ -1,0 +1,6 @@
+@semdin.com_backend_HostAddress = http://localhost:5085
+
+GET {{semdin.com_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
